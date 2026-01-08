@@ -1,6 +1,6 @@
-Siber Güvenlik Farkındalık Eğitim Portalı (5-6. Sınıf Seviyesi)
+Gizlilik ve Güvenlik tamalı Eğitim Portalı (5-6. Sınıf Seviyesi)
 
-Bu proje, ortaokul 5-6. sınıf düzeyindeki öğrencilerin BT ve Yazılım dersi kapsamında "Bilgi Güvenliği" ve "Etik Değerler" konularını uygulamalı olarak deneyimlemeleri için geliştirilmiş web tabanlı bir eğitim simülasyonudur.
+Bu proje, ortaokul 5-6. sınıf düzeyindeki öğrencilerin BT ve Yazılım dersi kapsamında Gizlilik ve Güvenlik konularını uygulamalı olarak deneyimlemeleri için geliştirilmiş web tabanlı bir eğitim simülasyonudur.
 
 Projenin Amacı
 
